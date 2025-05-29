@@ -1,19 +1,5 @@
 # PORTFOLIO-WEBPAGE
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: Prajapati Ayushi Bhaveshkumar
-
-INTERN ID: CT04DA46
-
-DOMAIN: Frontend Web Development
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
-# Portfolio Webpage
-
 Welcome to my personal portfolio website! 🎨  
 This site showcases my projects, skills, and contact information in a clean and responsive layout.
 
